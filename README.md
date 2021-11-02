@@ -1,5 +1,5 @@
 # Plex-Shared-Library-Downloader
-Javascript bookmark download button for Plex Shared Libraries to download Movie/TV Shows from a friends server
+Javascript bookmark download button for Plex Shared Libraries to download Movie/TV Shows from a friends server 
 
   
 Step 1. As a pre-requisite, you need to either have Google Chrome or Firefox installed on your computer. 
